@@ -1,5 +1,5 @@
-
 pandas
+geopandas
 numpy
-psycopg2==2.9.9
-SQLAlchemy==2.0.28
+psycopg2
+SQLAlchemy
