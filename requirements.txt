@@ -1,5 +1,5 @@
 pandas
 geopandas
 numpy
-psycopg2
-SQLAlchemy
+psycopg2-binary
+sqlalchemy
