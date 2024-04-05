@@ -3,8 +3,6 @@ import pandas as pd
 import numpy as np
 
 
-import streamlit as st
-
 # Initialize connection.
 conn = st.connection("postgresql", type="sql")
 
